@@ -1,0 +1,1 @@
+[ih][5].PClosing > [ih][4].PClosing && [ih][4].PClosing > [ih][3].PClosing && [ih][3].PClosing > [ih][2].PClosing && [ih][2].PClosing > [ih][1].PClosing && [ih][1].PClosing > [ih][0].PClosing && ([ih][2].QTotTran5J + [ih][1].QTotTran5J) >= (bvol) && (bvol) > 2 

@@ -1,0 +1,11 @@
+true==function()
+{
+        if((qd1)>0&&(pd1)==(tmax))
+        {
+        return true;
+    }
+        else
+        {
+        return false;
+    }    
+}()

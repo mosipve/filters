@@ -1,0 +1,11 @@
+true==function()
+{
+        if((ct).Sell_CountN==0 && ((ct).Buy_N_Volume >0 || (ct).Buy_CountN>0) )
+        {
+        return true;
+    }
+        else
+        {
+        return false;
+    }    
+}()

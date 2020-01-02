@@ -1,0 +1,28 @@
+
+true==function()
+{
+var MinPrice=function(){
+
+
+var min=[ih][0].PriceMin;
+var ipos;
+
+
+for(ipos=0;ipos<21;ipos++)
+if(min>[ih][ipos].PriceMin)
+min=[ih][ipos].PriceMin;
+
+
+return min;
+};
+
+
+if((pl)<MinPrice())
+{
+return true;
+}
+else
+{
+return false;
+} 
+}()

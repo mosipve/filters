@@ -1,0 +1,5 @@
+
+(pl)<[ih][0].PriceMin &&
+(pl)<[ih][1].PriceMin &&
+(pl)<[ih][2].PriceMin &&
+(pl)<[ih][3].PriceMin

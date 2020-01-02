@@ -1,0 +1,1 @@
+(pl)<((pf)-((pf)-(pmin))/2) && (pl)>((pmin)+((pf)-(pmin))/4) && (plp)<=1 && (tno)>10 && (pf)>(pmin) && (pf)>(py)

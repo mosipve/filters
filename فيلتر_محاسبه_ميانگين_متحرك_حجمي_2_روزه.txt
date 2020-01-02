@@ -1,0 +1,39 @@
+/* This program written by Hamid reza Fahimi and is not free !
+receive my programs frome "www.sahamnama.com"  */
+
+true==function()
+{
+    var vol3=function(){
+
+        var vol3=[ih][0].QTotTran5J;
+        var ipos;
+
+
+        for(ipos=1;ipos<3;ipos++)
+        vol3=Math.round(([ih][ipos].QTotTran5J + vol3)/2);
+
+        return vol3 ;
+    };
+   var vol16=function(){
+
+        var vol16=[ih][0].QTotTran5J;
+        var ipos;
+
+
+        for(ipos=4;ipos<16;ipos++)
+        vol16=Math.round(([ih][ipos].QTotTran5J + vol16)/2);
+
+        return vol16;
+
+
+    };
+
+       (cfield0)= vol3 ;
+        (cfield1)= vol16 ;
+
+         return true;       
+}()
+
+
+
+  

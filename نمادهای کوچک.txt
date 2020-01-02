@@ -1,0 +1,11 @@
+true==function()
+{
+        if((pc) * (z) < 300000000000 )
+        {
+        return true;
+    }
+        else
+        {
+        return false;
+    }    
+}()

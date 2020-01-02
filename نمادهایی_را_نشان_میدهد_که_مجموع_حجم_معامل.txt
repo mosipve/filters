@@ -1,0 +1,17 @@
+true==function()
+{
+var i;
+var a=0;
+for(i=0;i<=2;i++)
+{
+a=a+[ih][i].QTotTran5J;
+}
+if(a>30000000)
+{
+return true;
+}
+else
+{
+return false;
+}
+}()

@@ -1,0 +1,1 @@
+((pl)<((pf)-((pf)-(pmin))/2) && (pl)>((pmin)+((pf)-(pmin))/4) && (plp)<=1 && (tno)>10 && (pf)>(pmin) && (pf)>(py)) || ((pf)<(py) && (plp)<1 && (tno)>10 && (pl)>(py)) || ((pl)>1.01*(pf) && (tno)>10 && (pf)>1.01*(py) && (pl)!=(tmax)) || ((pl)>1.02*(pf) && (tno)>10 && (pl)!=(tmax)) || ((pf)<1.01*(pmin) && (plp)<=1 && (tno)>10 && (pl)>1.02*(pmin) )

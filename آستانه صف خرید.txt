@@ -1,0 +1,1 @@
+(po1)<= (tmax) && (po1)>= (tmax)-1 && (pd1)<(tmax)

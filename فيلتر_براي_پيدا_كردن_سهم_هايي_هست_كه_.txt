@@ -1,0 +1,1 @@
+((ct).Sell_N_Volume==0)&&((ct).Buy_N_Volume>(tvol) *0.3) 
